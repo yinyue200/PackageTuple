@@ -1,6 +1,9 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // See the LICENSE file in the project root for more information.
 
+
+//根据https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/ValueTuple/ValueTuple.cs修改
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
